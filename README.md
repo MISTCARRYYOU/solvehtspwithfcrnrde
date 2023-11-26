@@ -4,6 +4,8 @@ The codes and data for the paper 'Large-scale hybrid task scheduling in cloud-ed
 
 The codes contain both the proposed FCRN-RDE and an implementation of several evolution algorithms. Some codes are converted from C++ programs so that parts of them may look a little bit strange. 
 
+The studied problem belongs to a complex scheduling problem, and the proposed method is a type of surrogate-assisted evolutionary algorithm that can accelerate the speed of fitness evaluation in evolutionary algorithms. The codes contain six deep-learning surrogate models, including DNN, RNN, RCNN, TRANSFORMER, FCRN, and CNN. 
+
 ### 2 Run
 
 To run the program, just execute:
