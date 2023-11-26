@@ -14,4 +14,16 @@ python main.py
 
 The codes are simple but may be really effective in solving some large-scale optimization problems.
 
-GOOD LUCK FOR YOUR RESEARCH!
+### 3 Citation
+
+If you find something that may be helpful for your research, please cite our work as:
+
+@article{wang2023large,
+  title={Large-scale hybrid task scheduling in cloud-edge collaborative manufacturing systems with FCRN-assisted random differential evolution},
+  author={Wang, Xiaohan and Zhang, Lin and Laili, Yuanjun and Liu, Yongkui and Li, Feng and Chen, Zhen and Zhao, Chun},
+  journal={The International Journal of Advanced Manufacturing Technology},
+  pages={1--19},
+  year={2023},
+  publisher={Springer}
+}
+
